@@ -12,6 +12,7 @@ Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the po
   - behalf~of
   - years~old
   - `on behalf of`
+- teach you pronunciation
 
 # Day 2
 
