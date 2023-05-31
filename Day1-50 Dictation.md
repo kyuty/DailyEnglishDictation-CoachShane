@@ -12,19 +12,30 @@ Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the po
   - behalf~of
   - years~old
   - `on behalf of`
+- a Nobel Peace Price
+  - 诺贝尔和平奖
+- on behalf of
+  - 代表
+  - 含义可以用 for 代替
+- the poor
+  - 贫穷的人
 - teach you pronunciation
+  - 教你发音
+- a little bit tough
+  - 有点难
+- A，who xxxx, dies in xxx——she was 87 years old.
+  - 注意结构
 
 # Day 2
 
 Jerry, what time do you have. 
+
 I have 5 o'clock. 
 
 ## 讲解
 
 - 连读/发音
-
   - what~time
-
   - do~you~have
 
 > cancellation(省读)
