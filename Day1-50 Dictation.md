@@ -26,7 +26,7 @@ Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the po
 - A，who xxxx, dies in xxx——she was 87 years old.
   - 注意结构
 
-# Day 2
+# [Day 2](https://www.youtube.com/watch?v=5tvg7_jaSV8&list=PLtmZyh5TWpNsoX05J1f55abJ-6E8jVTMp&index=3)
 
 Jerry, what time do you have. 
 
@@ -35,8 +35,21 @@ I have 5 o'clock.
 ## 讲解
 
 - 连读/发音
-  - what~time
-  - do~you~have
+  - what~time 发音要点
+    - 连续，第一个 t 不发音
+  - do~you~have 发音要点（快速连读）
+    - dai wu
+  - I have 发音要点
+    - （h不发音）
+    - I av
+- Are you familiar with ...?
+  - 你对 xxx 熟悉吗？
+  - familiar with
+    - fe mai rui with
+- Linus is the character with the blanket
+  - 莱纳斯是拿着毯子的角色
+- a brand new one
+  - 一个全新的
 
 > cancellation(省读)
 >
