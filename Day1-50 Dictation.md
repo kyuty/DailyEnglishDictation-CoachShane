@@ -58,13 +58,44 @@ I have 5 o'clock.
 
 # Day 3
 
-There are three things I have learnt never to discus with people: religion, politics and Great Pumpkin!
+There are three things I have learned never to discuss with people: religion, politics and Great Pumpkin!
+
+我学会了三件事永远不要与人讨论：宗教、政治和大南瓜！
 
 ## 讲解
 
 - 连读/发音
-  - There~are、I~have
+  - There~are 连读像什么单词？
+    - Their  Theirare
+  - I have learned
+    - 他读成 I've learn，很快，需要仔细听
+  - never
+    - 重读
   - Great(\t)~Pumpkin
+- to 7 种读音
+- discuss with people
+  - 和人们讨论
+- religion
+  - 宗教
+  - The police want to discuss these recent racist attacks with local people.
+    - 警方希望与当地人讨论近期发生的种族主义袭击事件。
+- politics
+  - 政治
+  - I don't like to get involved in office politics.
+    - 我不想卷入办公室的争权夺利。
+- pumpkin
+  - ```
+    ■a large round vegetable with hard yellow or orange flesh    南瓜
+    pumpkin pie   南瓜馅饼
+    ■used when saying what time you usually go home or go to bed at night    谈论回家或睡觉的时间时的用语
+    It's too late for me - I turn into a pumpkin at eleven o'clock.   对我来说太晚了－－在11点我该回家睡觉了（童话故事，在11点变出一个南瓜，然后穿着水晶鞋乘车离开）。
+    ```
+  - [1/2]南瓜
+    - pumpkin pie 南瓜馅饼
+  - [2/2]回家睡觉
+    - turn into a pumpkin 回家睡觉
+  - It's too late for me - I turn into a pumpkin at eleven o'clock.
+    - 对我来说太晚了－－在11点我该回家睡觉了（童话故事，在11点变出一个南瓜，然后穿着水晶鞋乘车离开）。（谈论回家或睡觉的时间时的用语）
 
 
 
