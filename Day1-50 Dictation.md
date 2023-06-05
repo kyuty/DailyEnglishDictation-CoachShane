@@ -99,7 +99,7 @@ There are three things I have learned never to discuss with people: religion, po
 
 
 
-# Day 4
+# [Day 4](https://www.youtube.com/watch?v=UueMWH2y-7s&list=PLtmZyh5TWpNsoX05J1f55abJ-6E8jVTMp&index=5)
 
 Don’t ever let somebody tell you, you can’t do something.
 
@@ -108,10 +108,21 @@ Don’t ever let somebody tell you, you can’t do something.
 ## 讲解
 
 Strong:S, N, L | Weak:d, t, th
+-   三个强音：S、N、L
+-   三个弱音：d、t、th
 
 - eg: (n后面t不发音)
+- 强音 + 弱音，则 弱音 不发音
   - In~ternational
-  - Don~t even
+    - n + t：强音 + 弱音，则 t 不发音
+    - You and I
+      - and 中的 d 不发音
+      - you an I
+  - Don~t ever let
+    - t 不翻译；Don ever le
+    - t 不发音后，Don 中的 n 和 ever 的 e 结合起来读，就变成了：Don never le
+  - can't do something
+    - 发音：can(发音要长) do some
 
 
 
